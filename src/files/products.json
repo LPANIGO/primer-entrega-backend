@@ -1,0 +1,71 @@
+[
+	{
+		"id": 2,
+		"timestamp": 465469564,
+		"name": "Grey jeans",
+		"description": "Really confortable",
+		"code": "523456",
+		"thumnail": "img",
+		"price": 1500,
+		"stock": 18
+	},
+	{
+		"id": 3,
+		"timestamp": 415469564,
+		"name": "white shirt",
+		"description": "cotton",
+		"code": "523756",
+		"thumnail": "img",
+		"price": 1200,
+		"stock": 21
+	},
+	{
+		"id": 4,
+		"timestamp": 415461564,
+		"name": "white shooes",
+		"description": "lether",
+		"code": "523736",
+		"thumnail": "img",
+		"price": 1200,
+		"stock": 5
+	},
+	{
+		"name": "balck shooes",
+		"description": "lether",
+		"code": "523716",
+		"thumnail": "img",
+		"price": 1200,
+		"stock": 10,
+		"id": 5
+	},
+	{
+		"name": "green shooes",
+		"description": "Green and white shooes",
+		"code": "523716",
+		"thumnail": "img",
+		"price": 1200,
+		"stock": 8,
+		"id": 6,
+		"timestamp": 1670707649401
+	},
+	{
+		"name": "Jeans",
+		"description": "Light-blue jeans",
+		"thumnail": "img",
+		"price": 2000,
+		"stock": 40,
+		"id": 7,
+		"timestamp": 1670801053507,
+		"code": "27430987-65d3-469a-9868-201fabb04411"
+	},
+	{
+		"name": "Black jeans",
+		"description": "Black jeans with chains",
+		"thumnail": "img",
+		"price": 3000,
+		"stock": 25,
+		"id": 8,
+		"timestamp": 1670801130784,
+		"code": "38257523-132b-40fc-a974-dca553a3ef3d"
+	}
+]

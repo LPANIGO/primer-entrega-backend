@@ -1,0 +1,7 @@
+hacer el proyecto en ingles y desde cero para elminar malas practicas.
+manejar el endpoint con dos endoponts; :pid y sin :pid
+ 
+ El navegador por default siempre hace gets por las url. Postman permite hacer los otros 
+ metodos que el navegadorno permite desde la url.
+
+No puedo repetir ids de carts o products.
